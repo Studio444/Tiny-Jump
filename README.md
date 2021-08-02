@@ -1,5 +1,7 @@
 # Tiny-Jump
 
+# Latest Version : 1.0.0
+
 TINY JUMP is now on the Google Play Store!
 
 Jump to get higher only? 
