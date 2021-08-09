@@ -34,3 +34,9 @@ How to play:
 
 - This game requires the LOCATION permission to target and deliver video-based advertising.
 We require the Location permission to provide location based video ads to provide more relevant ads to players.
+
+
+
+
+
+google.com, pub-7924675600601907, DIRECT, f08c47fec0942fa0
